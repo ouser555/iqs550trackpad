@@ -17,6 +17,8 @@ iqs550trackpad test
 
   所以如果要正常使用的話需要用軟體做初始設定，
 
+  板子上沒有I2C的4.7k pull high電阻，要自己補上。
+
   和TPS65主要是TX channel不同，PXM0002是0~15順序排列，TX全部打開。
 
   因為靈敏度太強，把ATI Target設350，ATI C設2即可正常使用。
