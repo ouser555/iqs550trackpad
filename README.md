@@ -1,7 +1,7 @@
 # iqs550trackpad
 iqs550trackpad test
 
-* 僅限qmk 0.23.9 ，PXM0002測試用途
+* 僅限qmk 0.23.9 ，PXM0002測試用途，TPS65則是qmk原本就有內建。
   
   make binepad/bn003:default
 
